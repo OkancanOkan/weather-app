@@ -1,5 +1,5 @@
-## This React Project made for Kartaca
+# This React Project made for Kartaca
 
-# Using React library and Redux
+## Using React library and Redux
 
-# Using OpenWeather API Key
+## Using OpenWeather API Key
